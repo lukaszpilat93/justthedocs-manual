@@ -1,4 +1,4 @@
-../images/hmtl5.png
+C:\Users\lukas\OneDrive\Dokumenty\GitHub\justthedocs-manual\images
 ---
 title: Sample page no. 2
 layout: default
