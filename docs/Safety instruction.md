@@ -1,4 +1,4 @@
-
+GitHub\images\justthedocs-manual\html5.png
 ---
 title: Sample page no. 2
 layout: default
