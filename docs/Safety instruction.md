@@ -1,4 +1,4 @@
-C:\Users\lukas\OneDrive\Dokumenty\GitHub\justthedocs-manual\images
+GitHub\images\justthedocs-manual\
 ---
 title: Sample page no. 2
 layout: default
