@@ -3,4 +3,4 @@ title: sample page
 layout: default
 ---
 Zajęcia 24 lutego
-../images/html5.jpg
+C:\Users\lukas\OneDrive\Dokumenty\GitHub\justthedocs-manual\images\html5.png
